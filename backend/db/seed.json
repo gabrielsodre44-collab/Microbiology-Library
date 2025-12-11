@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Escherichia coli",
+    "gram": "negativa",
+    "tsi": "A/A g\u00e1s",
+    "citrato": "negativo",
+    "indol": "positivo",
+    "sim": "motilidade positiva",
+    "fenilalanina": "negativo"
+  },
+  {
+    "name": "Salmonella spp.",
+    "gram": "negativa",
+    "tsi": "K/A H2S",
+    "citrato": "positivo",
+    "indol": "negativo",
+    "sim": "motilidade positiva",
+    "fenilalanina": "negativo"
+  }
+]
