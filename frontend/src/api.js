@@ -1,4 +1,4 @@
-export const API_URL = "https://SEU-BACKEND.onrender.com"; // replace after deploy
+export const API_URL = "https://microbio-backend.onrender.com";
 export async function matchBacteria(tests) {
   try {
     const res = await fetch(`${API_URL}/api/match`, {
